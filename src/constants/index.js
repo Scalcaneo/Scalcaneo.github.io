@@ -259,7 +259,7 @@ export const projects = [
         theme: 'btn-back-black',
         name: 'Sentiment Classification for Social Media',
         description: 'A Large Short-Term Memory Model that can classify negative and positive tweets.',
-        link: 'https://github.com/SCalcaneo',
+        link: 'https://github.com/Scalcaneo/TweetMoodAnalyzer',
     },
     {
         iconUrl: celullar,
